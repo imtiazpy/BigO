@@ -1,3 +1,4 @@
+# This is first attempt. final solution is in finalSolve.py
 def diagonalDifference(arr):
     # Write your code here
     diag1 = arr[0][0] + arr[1][1] + arr[2][2]

@@ -7,3 +7,6 @@ def diagonalDifference(arr):
             differ += arr[j] - arr[-(j+1)]
             
     return differ
+
+# the solution is not correct. it's an attempt
+# finalSolve.py has the solution

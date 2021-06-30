@@ -12,3 +12,5 @@ def diagonalDifference(arr):
             
     return diff
 
+# the solution is not correct. it's an attempt
+# finalSolve.py has the solution

@@ -1,3 +1,4 @@
+# It's another solution. final one is on finalSolve.py
 n = int(input())
 
 total = 0
